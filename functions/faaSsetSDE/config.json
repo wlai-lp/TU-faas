@@ -1,0 +1,15 @@
+{
+    "name": "faaSsetSDE",
+    "event": "No Event",
+    "description": "use faas to set sdes",
+    "input": {
+        "headers": [],
+        "payload": {}
+    },
+    "environmentVariables": [
+        {
+            "key": "",
+            "value": ""
+        }
+    ]
+}
